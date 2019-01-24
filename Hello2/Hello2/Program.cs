@@ -11,6 +11,7 @@ namespace Hello2
         static void Main(string[] args)
         {
             Console.WriteLine("wwwdddddd");
+            Console.WriteLine("rrrrrr");
         }
     }
 }
